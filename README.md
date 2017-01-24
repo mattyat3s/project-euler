@@ -7,5 +7,4 @@ To build the c program write `make <filename-without-extension>`.
     
 To run the program file that the above creates write `./<filename-without-extension>`.
 
-    // 
     ./p4.4
