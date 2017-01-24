@@ -9,5 +9,4 @@ I'm working my way through the [Project Euler](https://projecteuler.net/archives
 - [x] [Problem 3](https://projecteuler.net/problem=3)
 - [x] [Problem 4](https://projecteuler.net/problem=4)
     - [ ] record the products that made the greatest palindrome so a * b
-- [ ] [Use arrays in one of these problems](#Arrays)
-- [ ] [Problem 5](https://projecteuler.net/problem=5)
+- [x] [Problem 5](https://projecteuler.net/problem=5)
