@@ -1,9 +1,9 @@
-#Project Euler Problems#
+# Project Euler Problems
 https://projecteuler.net
 
 Using the C programming language to answer the archived [Project Euler](https://projecteuler.net/archives) problems.
 
-##To Do's##
+## To Do's
 - [x] [Problem 1](https://projecteuler.net/problem=1)
 - [x] [Problem 2](https://projecteuler.net/problem=2)
 - [x] [Problem 3](https://projecteuler.net/problem=3)
